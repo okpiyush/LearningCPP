@@ -1,0 +1,1 @@
+{"name":"Local: sum of n numbers","url":"f:\\C++\\AdvancedFunctions\\sum of n numbers.cpp","tests":[{"id":1622053463602,"input":"10","output":"55"},{"id":1622053478786,"input":"12","output":"78"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\AdvancedFunctions\\sum of n numbers.cpp","group":"local","local":true}

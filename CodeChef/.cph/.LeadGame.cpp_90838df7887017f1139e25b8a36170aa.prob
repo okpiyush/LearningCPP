@@ -1,0 +1,1 @@
+{"name":"Local: LeadGame","url":"f:\\C++\\CodeChef\\LeadGame.cpp","tests":[{"id":1622122644096,"input":"5\n140 82\n89 134\n90 110\n112 106\n88 90","output":"1 58"},{"id":1622750755995,"input":"4\n45 54 \n21 12\n72 12\n45 119\n","output":"1 60"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\CodeChef\\LeadGame.cpp","group":"local","local":true}
