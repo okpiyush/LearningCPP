@@ -1,5 +1,9 @@
 #include <iostream>
 using namespace std;
+
+
+
+//remarks (Didnt answer clear the test cases)
 int gcf(int a, int b){
     int ans;
     int rem;
