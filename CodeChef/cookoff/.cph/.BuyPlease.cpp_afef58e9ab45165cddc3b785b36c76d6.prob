@@ -1,0 +1,1 @@
+{"name":"Local: BuyPlease","url":"f:\\C++\\CodeChef\\cookoff\\BuyPlease.cpp","tests":[{"id":1624346034121,"input":"2 4 4 5","output":"28"},{"id":1624346043157,"input":"1 1 4 8","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\CodeChef\\cookoff\\BuyPlease.cpp","group":"local","local":true}

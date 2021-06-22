@@ -1,0 +1,1 @@
+{"name":"Local: isBothOrNot","url":"f:\\C++\\CodeChef\\cookoff\\isBothOrNot.cpp","tests":[{"id":1624346608734,"input":"50","output":"ONE"},{"id":1624346632412,"input":"110","output":"BOTH"},{"id":1624346646667,"input":"16","output":"NONE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\CodeChef\\cookoff\\isBothOrNot.cpp","group":"local","local":true}
