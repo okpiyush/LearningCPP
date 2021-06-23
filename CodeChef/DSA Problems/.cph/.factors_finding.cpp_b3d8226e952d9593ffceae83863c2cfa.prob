@@ -1,0 +1,1 @@
+{"name":"Local: factors_finding","url":"f:\\C++\\CodeChef\\DSA Problems\\factors_finding.cpp","tests":[{"id":1624348480971,"input":"4","output":"3\n1 2 4"},{"id":1624348497644,"input":"6","output":"4\n1 2 3 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\CodeChef\\DSA Problems\\factors_finding.cpp","group":"local","local":true}
