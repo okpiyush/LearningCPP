@@ -1,0 +1,1 @@
+{"name":"Local: Richie Rich","url":"f:\\C++\\CodeChef\\lunchtime\\Richie Rich.cpp","tests":[{"id":1624717614424,"input":"3\n100 200 10\n111 199 11\n190 200 10","output":"10\n8\n1"},{"id":1624718529477,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\CodeChef\\lunchtime\\Richie Rich.cpp","group":"local","local":true}
